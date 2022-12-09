@@ -1,0 +1,117 @@
+* {
+margin: 0;
+padding: 0;
+border: 0;
+}
+body {
+padding: 2% 0 0;
+background: #fff;
+color: #333;
+font-family: Arial, Helvetica, sans-serif;
+}
+#container {
+width: 820px;
+margin: 0 auto;
+border : 1px solid #999;
+}
+#header {
+background: url(images/header.jpg) no-repeat;
+width: 820px;
+height: 110px;
+}
+h1 {
+font-size: 250%;
+font-weight: bold;
+text-align: center;
+padding: 30px 10px 0;
+color: 	#FFFFE0;
+}
+
+#text {
+width: 820px;
+font-size: .8em;
+margin: 10px 0;
+float: right;
+}
+#text h2 {
+text-align: justify;
+text-indent: 1.5em;
+padding: 30px 15px 5px 15px;
+margin: 0;
+
+}
+#text p {
+text-align: justify;
+text-indent: 1.5em;
+margin: 0;
+padding: 5px 15px;
+}
+#text a {
+color: #333;
+text-decoration: none;
+}
+#text a:hover {
+color: #665;
+text-decoration: none;;
+}
+.img1 {
+width: 315px;
+height: 224px;
+margin: 15px 10px;
+float: left;
+}
+.img2 {
+width: 315px;
+height: 315px;
+margin: 15px 10px;
+float: left;
+}
+.img3 {
+width: 315px;
+height: 432px;
+margin: 15px 10px;
+float: left;
+}
+.img4 {
+width: 315px;
+height: 277px;
+margin: 15px 10px;
+float: left;
+}
+.img5 {
+width: 315px;
+height: 269px;
+margin: 15px 10px;
+float: left;
+}
+.img6 {
+width: 315px;
+height: 299px;
+margin: 15px 10px;
+float: left;
+}
+.img7 {
+width: 315px;
+height: 205px;
+margin: 15px 10px;
+float: left;
+}
+.clearfloat {
+clear: both;
+}
+#footer {
+background: #665;
+color: #fff;
+font-size: 70%;
+padding: 5px;
+}
+#footer a {
+color: #ff0;
+}
+#footer a:hover {
+color: #f00;
+}
+#footer p {
+padding: 2px;
+text-align: center;
+}
